@@ -1,16 +1,14 @@
 # eventus
 
-A new Flutter project.
+This is a mobile application to simplify and streamline the process of event management in the college. 
+The tech stacks used in this project are Figma(for UI design), Flutter (for frontend development) and Firebase for (backend development). 
 
-## Getting Started
+For more information on the project, feel free to contact us
+Flutter - Shravasti Ohol 9822007506
+          Prashant - 9182022040
 
-This project is a starting point for a Flutter application.
+Firebase and Integration - K.Siddhartha 8919641170
+                           Bavith 7661077810
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+UI Design - Sarthak 9665165151
+            Hisham 7034636564
